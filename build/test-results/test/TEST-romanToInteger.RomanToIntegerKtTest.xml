@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="romanToInteger.RomanToIntegerKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-30T16:09:44" hostname="SC-MCJ70" time="33.318">
+  <properties/>
+  <testcase name="romanToInt" classname="romanToInteger.RomanToIntegerKtTest" time="33.318"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

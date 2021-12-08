@@ -1,4 +1,4 @@
-package longestCommonPrefix
+package easy.longestCommonPrefix
 
 import org.junit.Test
 

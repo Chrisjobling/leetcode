@@ -1,4 +1,4 @@
-package lengthOfLastWord
+package easy.lengthOfLastWord
 
 fun lengthOfLastWord(s: String): Int {
     if (s.isEmpty()) return 0

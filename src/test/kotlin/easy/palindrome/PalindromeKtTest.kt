@@ -1,4 +1,4 @@
-package palindrome
+package easy.palindrome
 
 import org.junit.Test
 

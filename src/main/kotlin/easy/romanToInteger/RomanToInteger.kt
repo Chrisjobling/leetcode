@@ -1,4 +1,4 @@
-package romanToInteger
+package easy.romanToInteger
 
 fun romanToInt(s: String): Int {
     var ans = 0

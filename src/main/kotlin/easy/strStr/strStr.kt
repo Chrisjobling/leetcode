@@ -1,4 +1,4 @@
-package strStr
+package easy.strStr
 
 fun strStr(haystack: String, needle: String): Int {
     if (needle.isEmpty()) {

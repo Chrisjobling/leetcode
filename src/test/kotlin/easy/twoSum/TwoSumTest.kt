@@ -1,4 +1,4 @@
-package twoSum
+package easy.twoSum
 
 import org.junit.Test
 

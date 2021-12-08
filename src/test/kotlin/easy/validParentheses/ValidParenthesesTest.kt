@@ -1,4 +1,4 @@
-package validParentheses
+package easy.validParentheses
 
 import org.junit.Test
 import kotlin.test.assertFalse

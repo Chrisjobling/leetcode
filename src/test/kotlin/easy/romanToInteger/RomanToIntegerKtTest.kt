@@ -1,4 +1,4 @@
-package romanToInteger
+package easy.romanToInteger
 
 import org.junit.Test
 

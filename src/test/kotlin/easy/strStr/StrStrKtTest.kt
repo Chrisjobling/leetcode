@@ -1,4 +1,4 @@
-package strStr
+package easy.strStr
 
 import org.junit.Test
 import kotlin.test.assertEquals

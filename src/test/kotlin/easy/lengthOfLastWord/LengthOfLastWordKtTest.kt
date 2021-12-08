@@ -1,4 +1,4 @@
-package lengthOfLastWord
+package easy.lengthOfLastWord
 
 import org.junit.Test
 

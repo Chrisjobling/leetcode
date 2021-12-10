@@ -8,9 +8,9 @@ class ValidPalindromeKtTest {
 
     @Test
     fun isPalindrome() {
-//        assertTrue(isPalindrome("A man, a plan, a canal: Panama"))
-//        assertFalse(isPalindrome("race a car"))
-//        assertTrue(isPalindrome(" "))
+        assertTrue(isPalindrome("A man, a plan, a canal: Panama"))
+        assertFalse(isPalindrome("race a car"))
+        assertTrue(isPalindrome(" "))
         assertFalse(isPalindrome("ab"))
     }
 
